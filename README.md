@@ -1,4 +1,15 @@
-### Hi there 👋
+## Hello there👋, I'm Nikita - 17 y.o student from Kyiv
+### Working as self-employed Frontend Developer 💻 and making my PET-projects
+##### Here is some tools that i'm using everyday:
+* React ⚛️
+* Next.js
+* Vercel
+* TailwindCSS
+* SCSS
+* JS/TS(sometimes)
+* Firebase 🔥
+
+### You can contact me using my email address: xennerit@icloud.com
 
 <!--
 **meliphyra-ux/meliphyra-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
