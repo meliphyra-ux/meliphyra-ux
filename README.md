@@ -1,8 +1,8 @@
 ## Hello there👋, I'm Nikita - 17 y.o student from Kyiv
-### Working as self-employed Frontend Developer 💻 and making my PET-projects
+###  Making my PET-projects as Junior Frontend Developer 💻
 ##### Here is some tools that i'm using everyday:
 * React ⚛️
-* Next.js
+* Redux
 * Vercel
 * TailwindCSS
 * SCSS
